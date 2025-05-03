@@ -29,12 +29,12 @@ Origine : [Book Writer (Easy)](https://hackropole.fr/fr/challenges/pwn/fcsc2024-
 > http://localhost
 
 #### tentez 
-> nc book-writer-easy.cyrhades.fr:4000
+> nc book-writer-easy.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 -----------
 
